@@ -1,6 +1,6 @@
-package com.wu.mapper;
+package com.zlt.mapper;
 
-import com.wu.pojo.Employee;
+import com.zlt.pojo.Employee;
 import org.apache.ibatis.annotations.Mapper;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.stereotype.Repository;

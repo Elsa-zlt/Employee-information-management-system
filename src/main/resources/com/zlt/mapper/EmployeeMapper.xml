@@ -3,7 +3,7 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.wu.mapper.EmployeeMapper">
+<mapper namespace="com.zlt.mapper.EmployeeMapper">
 
     <select id="getAll" resultType="Employee">
         select e.id, e.ename, e.email, e.gender, e.birthday, e.did, dname

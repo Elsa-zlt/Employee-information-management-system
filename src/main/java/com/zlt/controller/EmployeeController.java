@@ -1,9 +1,9 @@
-package com.wu.controller;
+package com.zlt.controller;
 
-import com.wu.pojo.Department;
-import com.wu.pojo.Employee;
-import com.wu.service.DepartmentServiceImpl;
-import com.wu.service.EmployeeServiceImpl;
+import com.zlt.pojo.Department;
+import com.zlt.pojo.Employee;
+import com.zlt.service.DepartmentServiceImpl;
+import com.zlt.service.EmployeeServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

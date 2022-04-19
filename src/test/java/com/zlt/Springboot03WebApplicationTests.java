@@ -1,7 +1,7 @@
-package com.wu;
+package com.zlt;
 
-import com.wu.service.DepartmentServiceImpl;
-import com.wu.service.EmployeeServiceImpl;
+import com.zlt.service.DepartmentServiceImpl;
+import com.zlt.service.EmployeeServiceImpl;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

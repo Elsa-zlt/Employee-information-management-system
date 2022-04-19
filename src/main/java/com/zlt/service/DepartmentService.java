@@ -1,12 +1,12 @@
-package com.wu.service;
+package com.zlt.service;
 
-import com.wu.pojo.Department;
+import com.zlt.pojo.Department;
 
 import java.util.List;
 
 /**
- * @author: 吴磊
- * @program: springboot-03-web
+ * @author: 钟良堂
+ * @program: Employee-information-management-system
  * @create: 2021-01-29 14:16
  */
 public interface DepartmentService {

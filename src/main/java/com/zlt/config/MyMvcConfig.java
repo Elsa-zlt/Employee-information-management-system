@@ -1,4 +1,4 @@
-package com.wu.config;
+package com.zlt.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

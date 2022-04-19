@@ -1,4 +1,4 @@
-package com.wu.config;
+package com.zlt.config;
 
 import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.LocaleResolver;
