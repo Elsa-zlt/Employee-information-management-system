@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.wu.mapper.EmployeeMapper">
+
+    <select id="getAll" resultType="Employee">
+        select e.id, e.ename, e.email, e.gender, e.birthday, e.did, dname
+        from employee e
+        left join department d on d.id = e.did
+    </select>
+
+
+    <select id="getEmployeeById" resultType="Employee">
+        select e.id, e.ename, e.email, e.gender, e.birthday, e.did, dname
+        from employee e
+        left join department d on d.id = e.did
+        where e.id = #{id}
+    </select>
+
+    <delete id="delete">
+        delete from employee where id = #{id}
+    </delete>
+
+    <insert id="save" parameterType="Employee">
+        insert into employee (ename, email, gender, birthday, did)
+        VALUES (#{ename}, #{email}, #{gender}, #{birthday}, #{did})
+    </insert>
+
+    <update id="updateEmpById" parameterType="Employee">
+        update employee set ename=#{ename},
+                            email = #{email},
+                            gender = #{gender},
+                            did = #{did},
+                            birthday = #{birthday}
+                        where id = #{id}
+    </update>
+</mapper>

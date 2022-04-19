@@ -1,0 +1,21 @@
+spring:
+  thymeleaf:
+    cache: false
+  # 配置国际化
+  messages:
+    basename: i18n.login
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 123456
+    url: jdbc:mysql://127.0.0.1:3306/springbootweb?useUnicode=true&characterEncoding=UTF-8&useSSL=true&serverTimezone=UTC
+
+server:
+  port: 8080
+
+mybatis:
+  type-aliases-package: com.wu.pojo
+  mapper-locations: classpath:com/wu/mapper/*.xml
+
+
+

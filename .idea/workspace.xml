@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="afb0df9f-24e6-48c5-9e96-fc39d31ee348" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\apache-maven\Repository" />
+        <option name="mavenHome" value="D:/MAVEN/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\apache-maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nj0WerpRUGT7Jxbapus2qhzdYh" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\resources\templates\emp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\resources\i18n" />
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\resources" />
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\resources\templates" />
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\resources\static" />
+      <recent name="D:\IDEA\IdeaProject\SpringBoot\springboot-03-web\src\main\java\com\wu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot03WebApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-03-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wu" />
+      <option name="MAIN_CLASS_NAME" value="com.wu.Springboot03WebApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplicationTests.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-03-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wu" />
+      <option name="MAIN_CLASS_NAME" value="com.wu.Springboot03WebApplicationTests" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplicationTests.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-03-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wu" />
+      <option name="MAIN_CLASS_NAME" value="com.wu.Springboot03WebApplicationTests" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplicationTests.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-03-web" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wu" />
+      <option name="MAIN_CLASS_NAME" value="com.wu.Springboot03WebApplicationTests" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot03WebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-03-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wu.Springboot03WebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot03WebApplicationTests.test4" />
+        <item itemvalue="JUnit.Springboot03WebApplicationTests.test3" />
+        <item itemvalue="JUnit.Springboot03WebApplicationTests.test2" />
+        <item itemvalue="JUnit.Springboot03WebApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\29216\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afb0df9f-24e6-48c5-9e96-fc39d31ee348" name="Default Changelist" comment="" />
+      <created>1611888225251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611888225251</updated>
+      <workItem from="1611888228103" duration="22983000" />
+      <workItem from="1650283514689" duration="2630000" />
+      <workItem from="1650286174474" duration="3266000" />
+      <workItem from="1650289928514" duration="7544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
